@@ -18,7 +18,7 @@ use the verify button to check whether your solution is correct.
     (repeatedly) navigates by headings
     <br/><br/>
 
-4. While usage of VoiceOver is recommended for this tutorial, Windows 10 users can start Narrator, a built-in voice reader, by pressing the <kbd>Windows Logo</kbd> + <kbd>Enter</kbd>, and see a list of keyboard commands by pressing <kbd>Caps Lock</kbd> + <kbd>F1</kbd>.
+4. While VoiceOver is recommended for this tutorial, Windows 10 users can start Narrator, a built-in voice reader, by pressing the <kbd>Windows Logo</kbd> + <kbd>Enter</kbd>, and see a list of keyboard commands by pressing <kbd>Caps Lock</kbd> + <kbd>F1</kbd>.
 
 5. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
 
